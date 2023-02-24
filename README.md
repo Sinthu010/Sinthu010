@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sinthu010
 - 👀 I’m interested in Dancing 💃🏽 and becoming good at programming 
-- 🌱 I’m currently learning Python 
-- 💞️ I’m looking to collaborate on Beginner Python projects
+- 🌱 I’m currently developing my Front-End Skills 
+- 💞️ I’m looking to collaborate on projects 
 - 📫 How to reach me - email me on sinthuja010@gmail.com
 
 <!---
